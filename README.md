@@ -1,6 +1,5 @@
 # It's a homework!
-I've made it while learning Front-End. Simple to-do list app, based on generating *HTML* using **JavaScript** and previously made **CSS**.  
-[GitHub Pages](https://maciejpanocha.github.io/Simple-task-list/)
+I've made it while learning Front-End. Simple to-do list app, based on generating *HTML* using **JavaScript** and pre-made **CSS**.  
 
 ## Created using
  - HTML
@@ -9,6 +8,3 @@ I've made it while learning Front-End. Simple to-do list app, based on generatin
 
 ## Methodologies
 - BEM
-
-## Contact
-Email: maciej.panocha@gmail.com
